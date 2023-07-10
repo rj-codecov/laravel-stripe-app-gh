@@ -73,7 +73,7 @@ class Charge extends Model
         return 80;
     }
 
-    public function uncoveredDDfunction() {
-        return 'new';
+    public function getpointtwofive() {
+        return 0.25;
     }
  }
